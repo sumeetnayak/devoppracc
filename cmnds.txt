@@ -3,3 +3,6 @@ git add
 git commit -m
 git clone
 git remote -v
+git pull origin ( Branch name )
+git fetch
+git push
