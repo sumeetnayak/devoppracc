@@ -6,3 +6,4 @@ git remote -v
 git pull origin ( Branch name )
 git fetch
 git push
+date
