@@ -1,2 +1,2 @@
 # devoppracc
-This is a repo for git prac
+This is a repo for git
