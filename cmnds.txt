@@ -7,3 +7,4 @@ git pull origin ( Branch name )
 git fetch
 git push
 date
+pwd
